@@ -19,6 +19,7 @@ Installation
 ------------
 
 First install python modules via PIP
+
 NumPy
 `pip install NumPy`
 
